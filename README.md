@@ -75,14 +75,14 @@ Y= A⊕B
  endmodul
 
  
-**Logic symbol & Truthtable**
-<!image>"https://github.com/user-attachments/assets/bcb44d92-86e0-42a6-b72c-95751f39de96" />
+**Logic symbol & Truthtable
+![image](https://github.com/user-attachments/assets/bcb44d92-86e0-42a6-b72c-95751f39de96)
 
 **RTL realization Output:** 
-<!image>"https://github.com/user-attachments/assets/98c476b0-2bc3-4771-8e6b-b348eeb9477b" />
+![image](https://github.com/user-attachments/assets/98c476b0-2bc3-4771-8e6b-b348eeb9477b)
 
 **RTL**
-<!image>"https://github.com/user-attachments/assets/0abc5fa0-476f-44b9-b92c-56d2597a6b2a" />
+![image](https://github.com/user-attachments/assets/0abc5fa0-476f-44b9-b92c-56d2597a6b2a)
 
 **Result:**
  Thus the truth table of logic gates in Quartus II using Verilog programming is studied
